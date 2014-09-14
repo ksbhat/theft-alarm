@@ -23,18 +23,23 @@ Installation:
 
 2. Extract the tar ball and run the following:
    
-   $ sudo laptop-theft-alarm.sh -install 
+	$ sudo laptop-theft-alarm.sh -install 
 
 3. For more details, run:
    
-   $ laptop-theft-alarm.sh -help
+	$ laptop-theft-alarm.sh -help
 
 Operation:
 ----------
 
 When you want to leave your laptop for a brief time, do:
+
 1. Ensure the laptop is unmuted and plugged-in to power supply.
+
 2. Run the script in a terminal.
+
+	$ laptop-theft-alarm.sh 
+
 3. Lock your screen before you leave!
 
 4. Then when you get back, close the terminal that runs the script.
@@ -56,7 +61,9 @@ Idea ignition by		: Ashoka Sathanur
 
 Testing by acting as a thief	: Roshan Bharath Das
 
-Sound file source		: http://soundbible.com/tags-alert.html
+Sound file source		: 
+
+				  http://soundbible.com/tags-alert.html
 
 				  http://soundbible.com/grab.php?id=581&type=wav
 				  
