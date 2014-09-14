@@ -46,7 +46,9 @@ CREDITS:
 Author				: Koustubha Bhat, who lost a laptop!
 
 Idea ignition by		: Ashoka Sathanur
+
 Testing by acting as a thief	: Roshan Bharath Das
+
 
 Vrije Universiteit, Amsterdam, The Netherlands.
 14-September-2014
