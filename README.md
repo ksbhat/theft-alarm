@@ -10,16 +10,23 @@ Requirements:
 1. Ubuntu Linux Operating System
 2. "acpi" package 
 	To install use command: 
-		$ sudo-apt get install acpi
+
+	$ sudo-apt get install acpi
+	
 3. Configure the laptop to: 
+	
 	Don't suspend upon closing the lid.
 
 Installation:
 -------------
 1. Download the latest tar ball from the "laptop-theft-alarm/release" folder of this repository
+
 2. Extract the tar ball and run the following:
-   $ sudo laptop-theft-alarm.sh -install
+   
+   $ sudo laptop-theft-alarm.sh -install 
+
 3. For more details, run:
+   
    $ laptop-theft-alarm.sh -help
 
 Operation:
