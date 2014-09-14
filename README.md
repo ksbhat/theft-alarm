@@ -59,7 +59,7 @@ Author				: Koustubha Bhat, who lost a laptop!
 
 Idea ignition by		: Ashoka Sathanur
 
-Testing by acting as a thief	: Roshan Bharath Das
+Testing by literally acting as a thief	: Roshan Bharath Das
 
 Vrije Universiteit, Amsterdam, The Netherlands.
 
