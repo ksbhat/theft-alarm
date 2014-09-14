@@ -61,6 +61,12 @@ Idea ignition by		: Ashoka Sathanur
 
 Testing by acting as a thief	: Roshan Bharath Das
 
+Vrije Universiteit, Amsterdam, The Netherlands.
+14-September-2014
+
+Others:
+-------
+
 Sound file source		: 
 
 				  http://soundbible.com/tags-alert.html
@@ -70,6 +76,5 @@ Sound file source		:
 				  [License page: http://creativecommons.org/licenses/sampling+/1.0/]
 
 
-Vrije Universiteit, Amsterdam, The Netherlands.
-14-September-2014
+
 
